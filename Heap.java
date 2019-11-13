@@ -5,6 +5,7 @@ import java.util.Comparator;
  * The shell of the class, to be completed as part
  * of CSC115 Assignment 5: Emergency Room.
  */
+/* All the methods were completed by the student.*/
 
 
 public class Heap<E extends Comparable<E>> {
