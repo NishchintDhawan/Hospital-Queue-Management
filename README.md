@@ -1,2 +1,2 @@
 # PriorityQueue
-Priority Queue implementation for managing patients in a hospital system.
+Priority Queue implementation for managing patients in an emergency room.
