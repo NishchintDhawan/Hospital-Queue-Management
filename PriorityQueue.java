@@ -4,7 +4,8 @@ import java.util.NoSuchElementException;
  * The shell of the class, to be completed as part of the
  * CSC115 Assignment 5 : Emergency Room
  */
-/* All the methods were completed by the student.*/
+
+/* ALLL METHODS WERE COMPLETED BY THE STUDENT. */
 
 public class PriorityQueue<E extends Comparable<E>> {
 	
